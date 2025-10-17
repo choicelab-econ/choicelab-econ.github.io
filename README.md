@@ -8,5 +8,5 @@ We are the **Choice-based Operational Intelligence & Computational Economics Lab
 
 ## 📫 Contact
 Email: choiceeconlab@gmail.com
-Website: [choice-lab.org](https://choice-lab.org)
+Website: [choice-lab.org](https://choicelab-econ.github.io)
 
